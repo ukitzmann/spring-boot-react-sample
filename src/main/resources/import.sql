@@ -1,0 +1,2 @@
+INSERT INTO business_partner (name, first_name, last_name, street, zip, city) VALUES ('Eins', 'Max', 'Mustermann', 'Hauptstraße', '12345', 'Mannheim');
+INSERT INTO business_partner (name, first_name, last_name, street, zip, city) VALUES ('Zwei', 'Martha', 'Musterfrau', 'Nebenstraße', '12345', 'Gelnhausen');
